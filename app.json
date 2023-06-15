@@ -43,7 +43,6 @@
     },
     "plugins": [
       "expo-localization"
-    ],
-    "owner": "andrei-inc"
+    ]
   }
 }
