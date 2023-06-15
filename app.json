@@ -38,11 +38,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "6982b5fd-7265-4125-ac73-4daf283b88d9"
+        "projectId": ""
       }
     },
     "plugins": [
       "expo-localization"
-    ]
+    ],
+    "owner": "andrei-inc"
   }
 }
